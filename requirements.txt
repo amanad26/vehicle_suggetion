@@ -8,3 +8,5 @@ flask_sqlalchemy
 flask_cors
 setuptools
 wheel
+scikit-learn
+joblib
